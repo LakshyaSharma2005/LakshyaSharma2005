@@ -5,7 +5,7 @@ I love learning new technologies and building projects that solve real-world pro
 
 I’m currently exploring Web Development, Android (Kotlin), IoT with ESP32 and AWS Cloud.
 
-My main tools are Python, HTML/CSS, JavaScript, Kotlin, VS Code, and Git.
+My main tools are Python, HTML/CSS, JavaScript, VS Code, and Git.
 Recently, I’ve been working on IoT systems, dashboards, and smart automation projects.
 
 Fun Facts:
